@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ray&#39;s Notes</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.dingrui.name/"/>
+  <updated>2018-10-05T00:25:37.769Z</updated>
+  <id>http://blog.dingrui.name/</id>
+  
+  <author>
+    <name>Ray Ding</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.dingrui.name/201810/hello-world/"/>
+    <id>http://blog.dingrui.name/201810/hello-world/</id>
+    <published>2018-10-05T00:25:37.768Z</published>
+    <updated>2018-10-05T00:25:37.769Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开始写点东西</title>
+    <link href="http://blog.dingrui.name/201612/%E5%BC%80%E5%A7%8B%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF/"/>
+    <id>http://blog.dingrui.name/201612/开始写点东西/</id>
+    <published>2016-12-31T09:01:08.000Z</published>
+    <updated>2018-10-05T08:16:09.375Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近几周周末都没有什么“有意义的事情”可做，经常是漫无目的的刷网页，然后就因为看到这样或那样的内容让自己有写博客的想法，再然后就是开始建自己的博客。&lt;/p&gt;
+&lt;p&gt;搭博客这件事其实早就开始做了，已经记不清是大一还是大二，那时候还是用WordPress，整天到处找免费空间免费域名，然后找主题找插件，折腾来折腾去就是没写几篇文章。后来偶然间看到了学校Linux社团弄了个博客空间，就申请了一个，总算放弃了折腾开始写了两篇读书笔记类型的文章。
+    
+    </summary>
+    
+    
+      <category term="随便写写" scheme="http://blog.dingrui.name/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[读书]-稀缺</title>
+    <link href="http://blog.dingrui.name/201504/%E8%AF%BB%E4%B9%A6-%E7%A8%80%E7%BC%BA/"/>
+    <id>http://blog.dingrui.name/201504/读书-稀缺/</id>
+    <published>2015-04-20T16:00:00.000Z</published>
+    <updated>2018-10-05T08:41:53.676Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;很久之前就下载了这本书的PDF版，但一直没看，前几天刷知乎的时候又看到了这本书，就直接买了一本（不太习惯对着屏幕看书……）。正好这两天下雨降温不宜出门，就窝在床上把这本书看完了。这本书简洁易懂，而且引用了非常多的实验案例，读起来并不会感到晦涩。作者的观点也非常独特，利用“余闲”、“借用”、“管窥”、“心智带宽”解释了人们是如何陷入贫穷与忙碌的：稀缺会俘获人们的注意力，使人们产生稀缺心态，专注于暂时的好处而忽略其他需要关注的事项，而这些被忽略的事项会加剧人们的稀缺，进而陷入无法跳出的泥潭。书中最后也给出了一些应对稀缺的建议，但都比较模糊，而且有一些方法需要借助外部的帮助，不过启发性还是很大的。
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://blog.dingrui.name/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[读书]-黑客与画家</title>
+    <link href="http://blog.dingrui.name/201503/%E8%AF%BB%E4%B9%A6-%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6/"/>
+    <id>http://blog.dingrui.name/201503/读书-黑客与画家/</id>
+    <published>2015-03-06T16:00:00.000Z</published>
+    <updated>2018-10-05T08:42:04.076Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前几天回合肥办理赴台签注的时候，在火车上无聊，就把《黑客与画家》这本书看完了。对于后面Lisp语言的部分我不懂，就翻了翻没细看；对于前半部分，有些地方作者的见解很深刻，非常有启发性，但也有些地方有些啰嗦。&lt;/p&gt;
+&lt;p&gt;【为什么书呆子不受欢迎】受欢迎的学生把注意力放在穿衣打扮、参加晚会上，而书呆子把注意力放在学习与观察世界上，缺少社交活动也不擅长社交。对于受欢迎的学生而言，共同的敌人能让圈子的关系更加牢固，书呆子正好就是最容易欺负的敌人，所以书呆子经常受到排挤。作为书呆子，没有必要让自己变得“受欢迎”，理解了自己的处境就可以了，人生并不是由受欢迎程度衡量的。
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://blog.dingrui.name/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>New Year 2015</title>
+    <link href="http://blog.dingrui.name/201502/New-Year-2015/"/>
+    <id>http://blog.dingrui.name/201502/New-Year-2015/</id>
+    <published>2015-02-18T16:00:00.000Z</published>
+    <updated>2018-10-05T08:16:09.373Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是农历的正月初一，昨天晚上伴随着鞭炮声度过了旧的一年，开始了新的一年。这次回家过年，感觉明显和以前不一样了。高中同学中，已经有人踏入了社会，从学校走进职场，同学聚会聊天的话题渐渐由大学生活转变成职场八卦；亲戚们坐在一起聊天，话题也由“孩子在哪上学”变成了“孩子在哪工作”，同龄人都有了不同的道路，学习成绩再也无法成为衡量“成功”与否的标准。
+    
+    </summary>
+    
+    
+      <category term="随便写写" scheme="http://blog.dingrui.name/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+  </entry>
+  
+</feed>
